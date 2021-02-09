@@ -411,7 +411,7 @@ LANGUAGE_CODE = 'en'
 LANGUAGES = (
     ('en', gettext_lazy('English')),
     ('de', gettext_lazy('German')),
-    ('pt', gettext_lazy('Portuguese')),
+    ('pt-BR', gettext_lazy('Portuguese')),
     ('es', gettext_lazy('Spanish')),
     ('fr', gettext_lazy('French')),
     ('fy-NL', gettext_lazy('Frisian')),
